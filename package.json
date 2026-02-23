@@ -2,7 +2,7 @@
   "name": "partice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://localhost:3000/venkatravi110102/partice-react-app",
+  "homepage": "https://venkatravi110102.github.io/partice-react-app",
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
     "@testing-library/dom": "^10.4.1",
