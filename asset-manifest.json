@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/venkatravi110102/partice-react-app/static/css/main.f855e6bc.css",
+    "main.js": "/venkatravi110102/partice-react-app/static/js/main.80a412db.js",
+    "static/js/453.fda09d0d.chunk.js": "/venkatravi110102/partice-react-app/static/js/453.fda09d0d.chunk.js",
+    "static/media/logo.svg": "/venkatravi110102/partice-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/venkatravi110102/partice-react-app/index.html",
+    "main.f855e6bc.css.map": "/venkatravi110102/partice-react-app/static/css/main.f855e6bc.css.map",
+    "main.80a412db.js.map": "/venkatravi110102/partice-react-app/static/js/main.80a412db.js.map",
+    "453.fda09d0d.chunk.js.map": "/venkatravi110102/partice-react-app/static/js/453.fda09d0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.80a412db.js"
+  ]
+}
